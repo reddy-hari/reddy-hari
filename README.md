@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hari.
-- 👀 I’m interested in coding, ideation, camera work, writing & travel!
+- 👀 I’m interested in ideation and manifesting them!
 - 🌱 I’m currently learning a stack that uses React TypeScript Java Spring Boot Jenkins and AWS.
 - 💞️ I’m looking to collaborate on anything really!
 - 📫 Reach me at harireddy05@gmail.com.
