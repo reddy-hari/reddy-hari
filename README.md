@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hari.
 - 👀 I’m interested in ideation and manifesting them!
-- 🌱 I’m currently learning a stack that uses React TypeScript Java Spring Boot Jenkins and AWS.
-- 💞️ I’m looking to collaborate on anything really!
+- 🌱 Currently budding into System Design & Architecture.
+- 💞️ I’m open to collaborate!
 - 📫 Reach me at harireddy05@gmail.com.
 
 <!---
